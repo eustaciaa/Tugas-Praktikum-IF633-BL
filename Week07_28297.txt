@@ -1,0 +1,13 @@
+Secara keseluruhan, aplikasi berjalan dengan baik tanpa suatu fatal error yang dapat menyebabkan aplikasi crash.
+
+Setelah mencoba menggunakan aplikasi, terdapat bug pada kedua tutorial:
+
+- Multimedia dan kamera
+	Ketika menampilkan foto yang sudah diambil, foto tersebut ditampilkan dengan orientasi yang tidak sama dengan
+	foto yang diambil sebenarnya. Lebih tepatnya, orientasi foto yang ditampilkan dirotasi -90 derajat. Padahal, 
+	ketika saat menampilkan video yang sudah direkam, orientasi video tersebut sama dengan orientasi pada saat 
+	perekaman.
+
+- Membuat galeri video
+	Terkadang, gambar thumbnail tidak muncul setelah suatu video diputar, padahal gambar thumbnail muncul ketika
+	pertama kali list video ditampilkan.
